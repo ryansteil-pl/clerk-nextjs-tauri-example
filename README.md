@@ -34,4 +34,4 @@ pnpm tauri build
 
 Then, if you start the app that is produced at `/src-tauri/target/release/bundle/macos/clerk-nextjs-tauri-example.app`, when attempting to login, you should get the following error:
 
-![scrrenshot of error](images/Screenshot 2024-12-05 at 9.54.55 PM.png)
+![screenshot](images/screenshot.png)
